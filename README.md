@@ -1,4 +1,4 @@
-<img align="right" src="https://64.media.tumblr.com/af4da35edfec554dbab0dfbdf17b3a8d/a69d34d3c58b7136-b9/s540x810/f419a29cb67da0d29676eb1806ee27c0d88d0f62.png">
+<img align="right" height=600 src="https://64.media.tumblr.com/af4da35edfec554dbab0dfbdf17b3a8d/a69d34d3c58b7136-b9/s540x810/f419a29cb67da0d29676eb1806ee27c0d88d0f62.png">
 
 Hello! I'm magikcoco, please have a look at my stats below:
 
