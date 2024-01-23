@@ -3,6 +3,6 @@
 Hello! I'm magikcoco, please have a look at my stats below:
 
 
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=magikcoco&hide=html,css&langs_count=7&bg_color=271a09&title_color=5ca904&text_color=5ba703&border_color=6f4a1b&icon_color=6f4a1b" >
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=magikcoco&hide=html,css&langs_count=7&bg_color=271a09&title_color=5ca904&text_color=5ba703&border_color=6f4a1b&icon_color=6f4a1b" >
 
 Thanks!
